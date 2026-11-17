@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cosmic Rang</string>
+    <string name="brand_name">COSMIC RANG</string>
+    <string name="brand_tagline">Discover Your Cosmic Identity.</string>
+    <string name="hero_eyebrow">VEDIC ASTROLOGY &amp; SACRED SCIENCES</string>
+    <string name="hero_subtitle">A precision-engineered sanctuary for Kundali analysis, Vastu harmony, numerology, Rashifal, and verified astrologer consultations.</string>
+    <string name="cta_explore_services">Explore Services</string>
+    <string name="cta_design_system">Design System</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_design">Design</string>
+    <string name="nav_architecture">Roadmap</string>
+    <string name="lang_toggle_cd">Switch display language</string>
+    <string name="section_pillars_title">Architectural Integrity</string>
+    <string name="section_services_title">Sacred Services</string>
+    <string name="section_services_subtitle">Eight core disciplines engineered with strict astronomical accuracy and privacy-first data isolation.</string>
+    <string name="filter_all">All</string>
+    <string name="filter_charts">Charts &amp; Match</string>
+    <string name="filter_guidance">Guidance &amp; Space</string>
+    <string name="filter_consults">Reports &amp; Consults</string>
+    <string name="section_roles_title">Role-Based Sanctuary</string>
+    <string name="section_roles_subtitle">Server-enforced custom claims separate personal records, practitioner queues, support, and governance.</string>
+    <string name="milestone_badge_m1">Milestone 1 Active</string>
+    <string name="milestone_badge_planned">Scheduled</string>
+    <string name="sheet_required_inputs">Required Inputs</string>
+    <string name="sheet_integrity_note">Calculation &amp; Privacy Guarantee</string>
+    <string name="sheet_close">Close</string>
+    <string name="design_title">Cosmic Rang Design System</string>
+    <string name="design_subtitle">Approved Stitch color tokens, Cinzel &amp; Plus Jakarta Sans hierarchy, and reusable Compose primitives.</string>
+    <string name="design_palette_title">Color Tokens</string>
+    <string name="design_type_title">Typography Scale</string>
+    <string name="design_components_title">Reusable Primitives</string>
+    <string name="arch_title">Architecture &amp; Milestones</string>
+    <string name="arch_subtitle">Phased engineering blueprint separating UI, domain contracts, ephemeris engine, AI synthesis, and Firestore access.</string>
+    <string name="copied_token_feedback">Copied hex token</string>
+    <string name="preview_interactive_toast">Interactive design system preview active</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">कॉस्मिक रंग</string>
+    <string name="brand_name">कॉस्मिक रंग</string>
+    <string name="brand_tagline">अपनी ब्रह्मांडीय पहचान खोजें।</string>
+    <string name="hero_eyebrow">वैदिक ज्योतिष एवं शास्त्र विज्ञान</string>
+    <string name="hero_subtitle">कुंडली विश्लेषण, वास्तु संतुलन, अंक ज्योतिष, राशिफल और प्रमाणित ज्योतिषी परामर्श के लिए एक विश्वसनीय मंच।</string>
+    <string name="cta_explore_services">सेवाएं देखें</string>
+    <string name="cta_design_system">डिज़ाइन सिस्टम</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_services">सेवाएं</string>
+    <string name="nav_design">डिज़ाइन</string>
+    <string name="nav_architecture">रोडमैप</string>
+    <string name="lang_toggle_cd">भाषा बदलें</string>
+    <string name="section_pillars_title">प्रमुख सिद्धांत</string>
+    <string name="section_services_title">प्रमुख सेवाएं</string>
+    <string name="section_services_subtitle">सटीक खगोलीय गणना और पूर्ण डेटा गोपनीयता के साथ आठ प्रमुख वैदिक सेवाएं।</string>
+    <string name="filter_all">सभी</string>
+    <string name="filter_charts">कुंडली और मिलान</string>
+    <string name="filter_guidance">मार्गदर्शन और वास्तु</string>
+    <string name="filter_consults">रिपोर्ट और परामर्श</string>
+    <string name="section_roles_title">भूमिका-आधारित सुरक्षा</string>
+    <string name="section_roles_subtitle">सर्वर-स्तरीय कस्टम क्लेम द्वारा ग्राहक, ज्योतिषी, सहायता और व्यवस्थापक की सीमाएं सुरक्षित हैं।</string>
+    <string name="milestone_badge_m1">चरण 1 सक्रिय</string>
+    <string name="milestone_badge_planned">आगामी चरण</string>
+    <string name="sheet_required_inputs">आवश्यक विवरण</string>
+    <string name="sheet_integrity_note">गणना और गोपनीयता आश्वासन</string>
+    <string name="sheet_close">बंद करें</string>
+    <string name="design_title">कॉस्मिक रंग डिज़ाइन सिस्टम</string>
+    <string name="design_subtitle">स्वीकृत रंग टोकन, टाइपोग्राफी पदानुक्रम और पुन: प्रयोज्य कंपोनेंट्स।</string>
+    <string name="design_palette_title">रंग टोकन</string>
+    <string name="design_type_title">टाइपोग्राफी स्केल</string>
+    <string name="design_components_title">पुन: प्रयोज्य कंपोनेंट्स</string>
+    <string name="arch_title">आर्किटेक्चर और चरण</string>
+    <string name="arch_subtitle">यूआई, डोमेन सेवाएं, खगोलीय इंजन, एआई व्याख्या और डेटा सुरक्षा का चरणबद्ध निर्माण।</string>
+    <string name="copied_token_feedback">हेक्स कोड कॉपी किया गया</string>
+    <string name="preview_interactive_toast">इंटरैक्टिव डिज़ाइन प्रीव्यू सक्रिय</string>
+</resources>
